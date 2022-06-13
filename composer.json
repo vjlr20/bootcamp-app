@@ -6,6 +6,8 @@
     "type": "project",
     "require": {
         "php": "^8.0",
+        "anik/form-request": "^4.5",
+        "dusterio/lumen-passport": "^0.3.6",
         "flipbox/lumen-generator": "^9.1",
         "laravel/lumen-framework": "^9.0"
     },

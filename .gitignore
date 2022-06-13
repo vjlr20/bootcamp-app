@@ -1,3 +1,6 @@
+# VSCode
+.vscode
+
 /vendor
 /.idea
 Homestead.json
